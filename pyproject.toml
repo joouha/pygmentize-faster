@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pygmentize-faster"
-version = "1.0.0"
+version = "1.0.1"
 description = "Provides a faster version of pygmentize"
 authors = ["Josiah Outram Halstead <josiah@halstead.email>"]
 license = "MIT"
